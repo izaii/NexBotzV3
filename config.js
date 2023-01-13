@@ -25,36 +25,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
+global.sig = '-'
 global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sgh = 'https://github.com/izaii'
+global.sgc = 'https://chat.whatsapp.com/GEr94jHzOB04yktJByx5LZ'
+global.swa = 'wa.me/6285865462352'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '085865462352'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pgopay = '0895808168700'
+global.ppulsa = '0895808168700'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '62895808168700'
+global.nomorown = '6285865462352'
+global.nomorown1 = '62895808168700'
+global.namebot = 'Faiz Bot'
+global.nameown = 'Faiz Cloud'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6285865462352'],
+  ['6285865462352'],
+  ['6285865462352'],
+  ['6285865462352', 'Faiz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,16 +104,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By Faiz Bot' //Main Watermark
+global.wm2 = 'Dyandra'
+global.wm3 = 'Faiz  | By Dyandra'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.titlebot = `Faiz Bot | ʙʏ ${global.nameown}`
+global.author = 'Dyandra' 
+global.packname = 'FaizClud'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'Juli 26'
 
 
 /*============== LOGO ==============*/
@@ -130,11 +130,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'NexEp'
-global.umurowner = '19'
-global.asalowner = 'Jawa Barat, Bekasi'
-global.nomorowner = 'wa.me/628812743180'
-global.pacarowner = 'Kaede Hitotsuba'
+global.nameowner = 'Dyandra'
+global.umurowner = '15'
+global.asalowner = 'Jawa Tengah, Yogyakarta'
+global.nomorowner = 'wa.me/6285865462352'
+global.pacarowner = 'nga ada'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
